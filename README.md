@@ -9,7 +9,7 @@
   <a href="https://github.com/ShashwatSecure"><img src="https://komarev.com/ghpvc/?username=ShashwatSecure&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" /></a>
   <a href="https://github.com/ShashwatSecure?tab=followers"><img src="https://img.shields.io/github/followers/ShashwatSecure?label=Followers&style=flat&color=2E9EF7" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet" alt="pronouns" />
-  <img src="https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-critical" alt="location" />
+  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-critical" alt="location" />
 </p>
 
 ---
